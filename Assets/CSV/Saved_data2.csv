@@ -1,0 +1,5 @@
+Weather,http://127.0.0.1:8080/weather.json,data.i.data,,,7,enable
+Bus Stop,http://127.0.0.1:8080/busstop.json,,data.i.lat,data.i.long,4,enable
+QA,http://127.0.0.1:8080/mockqa.json,data.i.data,data.i.lat,data.i.long,1,enable
+number,http://127.0.0.1:8080/mocktestapi.json,data.i.data,data.i.lat,data.i.long,2,enable
+Event,http://127.0.0.1:8080/mockEvent2.json,data.i.message,data.i.lat,data.i.long,3,enable
